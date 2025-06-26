@@ -1,5 +1,6 @@
 I'm a Swiss-based researcher and entrepreneur working at the intersection of AI, HPC, and Life Sciences.
 DoctorPhil Computational Engineering Unimarconi Rome.  
+
 🎯 My main scientific focus is on AI-driven health research, digital biomarkers, and wearable-based phenotyping. Exploring population stratification and digital phenotypes using wearable data.  
 🔬 Leading initiatives like **DrugReKindle** focusing on drug repurposing and participating **AVITHRAPID** a EU backed project on development of antiviral compounds with broad spectrum, **AICHEMIST** MSCA fellowship on advanced machine learning and drug discovery.
 
