@@ -8,8 +8,6 @@ DoctorPhil Computational Engineering Unimarconi Rome.
 High-Performance Computing for COVID Drug Discovery**.   
 🤝 Always open to collaborations, partnerships, and meaningful conversations.
 
-🎓 **If you're currently enrolled in an engineering program  at Guglielmo Marconi University and interested in topics such as AI for health, digital biomarkers, wearable devices, or predictive modeling, feel free to reach out to discuss a potential thesis project with me**.  Visit also https://silcoletti.github.io/ai-health-wearables/
-
+🎓 **If you're currently enrolled in an engineering program at Guglielmo Marconi University and interested in topics such as AI for health, digital biomarkers, wearable devices, or predictive modeling, feel free to reach out to discuss a potential thesis project with me**.  Visit also https://silcoletti.github.io/ai-health-wearables/
 
 Feel free to reach out!
-
